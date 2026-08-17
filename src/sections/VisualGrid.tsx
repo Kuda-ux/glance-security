@@ -35,7 +35,7 @@ const images = [
     src: '/images/glance-guard.png',
     alt: 'GSS security officer in branded uniform',
     span: 'sm:col-span-2',
-    position: 'object-cover object-[center_35%]',
+    position: 'object-cover object-[center_45%]',
   },
 ]
 

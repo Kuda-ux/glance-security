@@ -55,7 +55,7 @@ export const services: Service[] = [
     description:
       'Professional security personnel providing protection for properties, people and operations.',
     image: '/images/glance-guard.png',
-    objectPosition: 'object-[center_32%]',
+    objectPosition: 'object-[center_45%]',
     icon: Shield,
   },
   {
