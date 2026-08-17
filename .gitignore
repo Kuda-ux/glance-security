@@ -16,6 +16,9 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 .idea
+
+# Local source image folder (copied and renamed for the public build)
+"public/images/real glance images"
 .DS_Store
 *.suo
 *.ntvs*
